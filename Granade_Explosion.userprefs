@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PyramidInstantiate.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Grenade.cs" Line="35" Column="3" />
+      <File FileName="Assets\Scripts\Destructible.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\GrenadeThrower.cs" Line="15" Column="4" />
+      <File FileName="Assets\Scripts\PyramidInstantiate.cs" Line="14" Column="86" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
